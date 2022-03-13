@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IA/ML and Big Data in a engineering school: EFREI Paris
 
 
-[![Germain's github stats](https://github-readme-stats.vercel.app/api?username=triozer&count_private=true&show_icons=true&theme=chartreuse-dark
+[![Germain's github stats](https://github-readme-stats.vercel.app/api?username=Germain-D&count_private=true&show_icons=true&theme=chartreuse-dark
 )](https://github.com/Germain-D)
 
 <!---
