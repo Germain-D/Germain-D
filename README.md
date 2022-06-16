@@ -6,8 +6,6 @@
 [![Germain's github stats](https://github-readme-stats.vercel.app/api?username=Germain-D&count_private=true&show_icons=true&theme=chartreuse-dark
 )](https://github.com/Germain-D)
 
- ## 😂 Here is a random joke that'll make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
 Germain-D/Germain-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
