@@ -22,4 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germain-d&theme=chartreuse-dark" alt="germain-d" /></p>
 
+<a href="https://app.daily.dev/Germain_D"><img src="https://api.daily.dev/devcards/4366823b0d934a2fa3b9f0ba162a8a0a.png?r=wok" width="400" alt="Germain Deffontaines's Dev Card"/></a>
 
