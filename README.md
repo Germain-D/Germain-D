@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/germain-deffontaines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="germain-deffontaines" height="30" width="40" /></a>
-<a href="https://bento.me/germain-d" target="blank"><img align="center" src="https://daily-surf.com/img/DailySurf.98d9198f.svg" alt="germain-deffontaines" height="30" width="40" /></a>
+<a href="https://bento.me/germain-d" target="blank"><img align="center" src="https://global-uploads.webflow.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png" alt="germain-deffontaines" height="30" width="40" /></a>
 </p>
 
 
