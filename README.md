@@ -18,6 +18,7 @@
 <a href="https://dev.to/germaind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="germaind" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/germain-deffontaines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="germain-deffontaines" height="30" width="40" /></a>
 <a href="https://kaggle.com/germaindeff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="germaindeff" height="30" width="40" /></a>
+<a href="https://bento.me/germain-d" target="blank"><img align="center" src="https://global-uploads.webflow.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png" alt="germain-deffontaines" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,14 +26,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/germain.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="germain.dev" /></a></p><br><br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/germain-deffontaines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="germain-deffontaines" height="30" width="40" /></a>
-<a href="https://bento.me/germain-d" target="blank"><img align="center" src="https://global-uploads.webflow.com/6335b33630f88833a92915fc/63e501246a370e0d4462f2ed_herologo.png" alt="germain-deffontaines" height="30" width="40" /></a>
-</p>
-
 
 
 
