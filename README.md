@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [germaindeffontaines.fr](germaindeffontaines.fr)
+- 👨‍💻 All of my projects are available at [germaindeffontaines.fr](germaindeffontaines.fr) (soon)
 
 - 📫 How to reach me **germain.d.dev@gmail.com**
 
