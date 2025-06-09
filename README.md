@@ -24,6 +24,7 @@ I'm a passionate **Data Engineer** and **Software Developer** with a knack for b
 - **Current Projects**:
   -  Working on [Doctor-Tools.fr](https://Doctor-Tools.fr) – A platform designed to assist medical professionals with advanced tools.
   -  Working on [BooksRendezVous.fr](https://BooksRendezVous.fr) – A platform designed to create your digital library and share it.
+  -  Working on [GribouilleCourse](gribouillecourse.pages.dev)
 - **Portfolio**: Explore all my projects at [germaindeffontaines.fr](https://germaindeffontaines.fr).
 
 ---
