@@ -1,59 +1,69 @@
-![Open to Work](https://img.shields.io/badge/open%20to%20work-%E2%9C%94-brightgreen)  <img src="https://komarev.com/ghpvc/?username=germain-d&label=Profile%20views&color=0e75b6&style=flat" alt="germain-d" /> 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Germain+%F0%9F%91%8B;Data+Engineer+%26+Blockchain+Explorer;Building+at+the+intersection+of+data+%26+Web3" alt="Typing SVG" />
 
-<h1 align="center">👋 Hi, I'm Germain</h1>
-<h3 align="center">Freelance Data Engineer by day & Software Developer by night</h3>
+<br/>
 
-<p align="left"> 
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=germain-d" alt="germain-d" />
-  </a>
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=germain-d&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/germain-d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/germain-deffontaines)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://germaindeffontaines.fr)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/germaind)
 
----
-
-### 🚀 About Me
-
-I'm a passionate **Data Engineer** and **Software Developer** with a knack for building scalable systems and delivering impactful solutions. By day, I work as a freelance Data Engineer, and by night, I dive into personal projects to explore new technologies and solve interesting problems.
+</div>
 
 ---
 
-### 🔧 Projects & Work
+### 🧠 About Me
 
-- **Current Projects**:
-  -  Working on [Doctor-Tools.fr](https://Doctor-Tools.fr) – A platform designed to assist medical professionals with advanced tools.
-  -  Working on [BooksRendezVous.fr](https://BooksRendezVous.fr) – A platform designed to create your digital library and share it.
-  -  Working on [GribouilleCourse](https://gribouillecourse.pages.dev)
-- **Portfolio**: Explore all my projects at [germaindeffontaines.fr](https://germaindeffontaines.fr).
+Data Engineer with a growing obsession for blockchain — not just as a tech stack, but as a **new data frontier**. I'm exploring on-chain analytics, decentralized data infrastructure, and how the data engineering toolkit applies to Web3 problems.
+
+When I'm not wrangling pipelines, I'm building [Doctor-Tools.fr](https://Doctor-Tools.fr) to bring better tooling to medical professionals.
 
 ---
 
-### 📬 Let's Connect
+### 🔭 What I'm working on
 
-Feel free to reach out for collaborations, discussions, or just to say hi!
-
-- **Email**: germain.deffontaines@gmail.com
-- **LinkedIn**: [in/germain-deffontaines](https://linkedin.com/in/germain-deffontaines)
-- **Dev.to**: [germaind](https://dev.to/germaind)
-- **Kaggle**: [germaindeff](https://kaggle.com/germaindeff)
+| Project | Description |
+|---|---|
+| 🩺 [Doctor-Tools.fr](https://Doctor-Tools.fr) | Platform designed to assist medical professionals with advanced tools |
+| ⛓️ Blockchain × Data | On-chain data pipelines, analytics, and the role of data in decentralized ecosystems |
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Stack
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
-  <a href="https://nuxtjs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+**Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Blockchain**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+**Web & Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=germain-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germain-d&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 📬 Contact
+
+**Email**: germain.deffontaines@gmail.com &nbsp;|&nbsp; **LinkedIn**: [germain-deffontaines](https://linkedin.com/in/germain-deffontaines)
