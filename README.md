@@ -17,7 +17,7 @@
 
 Data Engineer with a growing obsession for blockchain — not just as a tech stack, but as a **new data frontier**. I'm exploring on-chain analytics, decentralized data infrastructure, and how the data engineering toolkit applies to Web3 problems.
 
-When I'm not wrangling pipelines, I'm building [Doctor-Tools.fr](https://Doctor-Tools.fr) to bring better tooling to medical professionals.
+When I'm not wrangling pipelines, I'm building [Doctor-Tools.fr](https://Docteur-Tools.fr) to bring better tooling to medical professionals.
 
 ---
 
