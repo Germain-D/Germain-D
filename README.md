@@ -25,7 +25,7 @@ When I'm not wrangling pipelines, I'm building [Doctor-Tools.fr](https://Doctor-
 
 | Project | Description |
 |---|---|
-| 🩺 [Doctor-Tools.fr](https://Doctor-Tools.fr) | Platform designed to assist medical professionals with advanced tools |
+| 🩺 [Doctor-Tools.fr](https://Docteur-Tools.fr) | Platform designed to assist medical professionals with advanced tools |
 | ⛓️ Blockchain × Data | On-chain data pipelines, analytics, and the role of data in decentralized ecosystems |
 
 ---
