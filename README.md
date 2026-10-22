@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/boot.svg" alt="Terminal boot animation" width="800">
+
 # Hey, I'm Germain 👋
 
 **Data Engineer** — building reliable data platforms, from ingestion to analytics.
@@ -27,12 +29,13 @@ Also curious about decentralized technologies and their data challenges.
 | Project | Description |
 |---|---|
 | 🩺 [Docteur-Tools.fr](https://Docteur-Tools.fr) | Tools to assist medical professionals in their daily practice |
+| 🖥️ [GitBoot](https://github.com/Germain-D/gitboot) | Generate an animated terminal boot screen for your GitHub profile, right in the browser |
 
 ---
 
 ### Stack
 
-**Data** 
+**Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
@@ -41,12 +44,11 @@ Also curious about decentralized technologies and their data challenges.
 ![Debezium](https://img.shields.io/badge/Debezium-91D443?style=flat&logoColor=white)
 ![Apache Pulsar](https://img.shields.io/badge/Apache%20Pulsar-188FFF?style=flat&logo=apachepulsar&logoColor=white)
 
-**Backend & Web** 
+**Backend & Web**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=00DC82)
 
-**Infra** 
-**Infra** 
+**Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
