@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="./assets/boot.svg" alt="Terminal boot animation" width="800">
 
-# Hey, I'm Germain 👋
-
 **Data Engineer** — building reliable data platforms, from ingestion to analytics.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/germain-deffontaines)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://germaindeffontaines.fr)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/germaind)
